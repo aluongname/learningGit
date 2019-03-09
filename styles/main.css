@@ -6,6 +6,16 @@ input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer;}b
 * { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
 
 body {
-	background: #eee;
+	background: darkblue;
 	font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+	font-size: 100px;
+	color: white;
+	padding: 20px;
+}
+
+.box {
+	border: dashed white 20px;
 }
